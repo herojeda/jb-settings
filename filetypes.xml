@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="f" type="AUTO_DETECTED" />
       <mapping pattern="V1__create_entity_tables" type="AUTO_DETECTED" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="gradle.kts" type="Kotlin" />
