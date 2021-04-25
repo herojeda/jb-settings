@@ -4,6 +4,7 @@
       <mapping pattern="V1__create_entity_tables" type="AUTO_DETECTED" />
       <mapping pattern="f" type="AUTO_DETECTED" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="Jenkinsfile2" type="PLAIN_TEXT" />
