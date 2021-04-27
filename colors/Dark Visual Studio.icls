@@ -552,6 +552,12 @@
         <option name="FOREGROUND" value="cae682" />
       </value>
     </option>
+    <option name="JUPYTER_SELECTED_CELL">
+      <value>
+        <option name="FOREGROUND" value="b4deea" />
+        <option name="BACKGROUND" value="4b4f51" />
+      </value>
+    </option>
     <option name="KOTLIN_ANNOTATION">
       <value>
         <option name="FOREGROUND" value="c58937" />
