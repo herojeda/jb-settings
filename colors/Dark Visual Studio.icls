@@ -552,6 +552,12 @@
         <option name="FOREGROUND" value="cae682" />
       </value>
     </option>
+    <option name="JUPYTER_SELECTED_CELL">
+      <value>
+        <option name="FOREGROUND" value="b4deea" />
+        <option name="BACKGROUND" value="4b4f51" />
+      </value>
+    </option>
     <option name="KOTLIN_ANNOTATION">
       <value>
         <option name="FOREGROUND" value="c58937" />
@@ -606,6 +612,12 @@
     <option name="PY.BUILTIN_NAME">
       <value>
         <option name="FOREGROUND" value="3be8e0" />
+      </value>
+    </option>
+    <option name="PY.CLASS_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="c0e85b" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="PY.DECORATOR">
