@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="build-imagedefinitions" type="AUTO_DETECTED" />
       <mapping ext="csv" type="CSV" />
       <removed_mapping ext="csv" type="CSV file" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
